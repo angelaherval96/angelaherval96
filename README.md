@@ -36,7 +36,7 @@ Se trata de un proyecto de monitorización eléctrica que obtiene los datos de u
                <br>
 <h3 align="center">Proyecto Gestor de Cursos</h3>
 <div align="center">                                       
-<a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank"><img src="#" width="400" alt="Proyecto Gestor Cursos"></a>
+<a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank"><img src="/img/GestorCursos.png" width="400" alt="Proyecto Gestor Cursos"></a>
 <br>
 <p>
 <a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank">
@@ -55,7 +55,7 @@ Se trata de un proyecto de monitorización eléctrica que obtiene los datos de u
 <td width="50%">
 <h3 align="center">Replica Web</h3>
 <div align="center">
-<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank"><img src="#" width="400" alt="Replica Web"></a>
+<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank"><img src="/img/ReplicaWeb (2).png" width="400" alt="Replica Web"></a>
 <p>
 <a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -69,7 +69,7 @@ Se trata de un proyecto de monitorización eléctrica que obtiene los datos de u
 <td width="50%">
 <h3 align="center">Proyecto Lista de Tareas</h3>
 <div align="center">
-<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank"><img src="#" width="400" alt="Lista de Tareas"></a>
+<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank"><img src="/img/ListaTareas.png" width="400" alt="Lista de Tareas"></a>
 <p>
 <a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -83,6 +83,38 @@ Se trata de un proyecto de monitorización eléctrica que obtiene los datos de u
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Calculadora</h3>
+<div align="center">
+<a href="https://github.com/angelaherval96/Clase4ProyectoCalculadora" target="_blank"><img src="/img/Calculadora.png" width="400" alt="Replica Web"></a>
+<p>
+<a href="https://github.com/angelaherval96/Clase4ProyectoCalculadora" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p> Proyecto realizado para la asignatura de Desarrollo de Interfaces. Consiste en una calculadora básica hecha con HTML, CSS y JS.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Pagina Eventos</h3>
+<div align="center">
+<a href="https://github.com/angelaherval96/pagina-eventos" target="_blank"><img src="/img/PaginaEventos.png" width="400" alt="Lista de Tareas"></a>
+<p>
+<a href="https://github.com/angelaherval96/pagina-eventos" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Proyecto realizado en la asignatura de Desarrollo de Interfaces de 2º del Ciclo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Consiste en la creación de una página web de información y venta de entradas para eventos.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
