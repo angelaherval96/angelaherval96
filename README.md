@@ -72,8 +72,12 @@ Soy desarrolladora de aplicaciones multiplataforma con un enfoque en frontend. M
           </a>
         </p>
         <p>
-           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-           <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+          <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
         </p>
         <p align="left">
           Proyecto de Acceso a Datos (2º DAM). Gestor de cursos para docentes y estudiantes, permitiendo la creación, edición y matriculación.
@@ -92,7 +96,8 @@ Soy desarrolladora de aplicaciones multiplataforma con un enfoque en frontend. M
           </a>
         </p>
         <p>
-           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+          <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         </p>
         <p align="left">
           Proyecto de Programación (1º DAM) para monitorizar el consumo eléctrico a partir de un JSON, realizando cálculos por dispositivo y tiempo.
