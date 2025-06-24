@@ -13,107 +13,185 @@ Soy desarrolladora de aplicaciones multiplataforma con un enfoque en frontend. M
 <br>
 
 ## Proyectos *Más Relevantes*
-<table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Pixel Novels - Backend (API RESTful)</h3>
+      <div align="center">
+        <a href="https://github.com/angelaherval96/backend-pixel-novels" target="_blank">
+          <img src="https://github.com/angelaherval96/backend-pixel-novels/blob/main/docs/images/BACKEND_PIXEL_NOVELS.png?raw=true" width="400" alt="Pixel Novels Backend">
+        </a>
+        <p>
+          <a href="https://github.com/angelaherval96/backend-pixel-novels" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+        </p>
+        <p align="left">
+          API RESTful con Laravel para la plataforma Pixel Novels. Gestiona autenticación (Sanctum), roles, y operaciones CRUD de novelas, capítulos y favoritos.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pixel Novels - Frontend</h3>
+      <div align="center">
+        <a href="https://github.com/angelaherval96/frontend-pixel-novels" target="_blank">
+          <img src="https://github.com/angelaherval96/frontend-pixel-novels/blob/main/assets/listaNovelas.png?raw=true" width="400" alt="Pixel Novels Frontend">
+        </a>
+        <p>
+          <a href="https://github.com/angelaherval96/frontend-pixel-novels" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+          <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        </p>
+        <p align="left">
+          Aplicación cliente multiplataforma con Ionic y Vue.js. Ofrece una interfaz reactiva, un lector multimedia y un panel de gestión para creadores.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Proyecto Gestor de Cursos</h3>
+      <div align="center">
+        <a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank">
+          <img src="/img/GestorCursos.png" width="400" alt="Proyecto Gestor Cursos">
+        </a>
+        <p>
+          <a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+           <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+        </p>
+        <p align="left">
+          Proyecto de Acceso a Datos (2º DAM). Gestor de cursos para docentes y estudiantes, permitiendo la creación, edición y matriculación.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Proyecto de Monitorización Eléctrica</h3>
+      <div align="center">
+        <a href="https://github.com/jaimemoralmillan/ProyectoA" target="_blank">
+          <img src="https://github.com/jaimemoralmillan/ProyectoA/blob/main/monitorizacion_electrica/src/main/java/com/proyecto_a/ui/portada.png?raw=true" width="400" alt="Proyecto Monitorización Eléctrica">
+        </a>
+        <p>
+          <a href="https://github.com/jaimemoralmillan/ProyectoA" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        </p>
+        <p align="left">
+          Proyecto de Programación (1º DAM) para monitorizar el consumo eléctrico a partir de un JSON, realizando cálculos por dispositivo y tiempo.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Página de Eventos</h3>
+      <div align="center">
+        <a href="https://github.com/angelaherval96/pagina-eventos" target="_blank">
+           <img src="/img/PaginaEventos.png" width="400" alt="Pagina Eventos">
+        </a>
+        <p>
+          <a href="https://github.com/angelaherval96/pagina-eventos" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </p>
+        <p align="left">
+          Proyecto de Desarrollo de Interfaces (2º DAM). Creación de una página web para la información y venta de entradas para eventos.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Proyecto Lista de Tareas</h3>
+      <div align="center">
+        <a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank">
+           <img src="/img/ListaTareas.png" width="400" alt="Lista de Tareas">
+        </a>
+        <p>
+          <a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </p>
+        <p align="left">
+          Proyecto de Desarrollo de Interfaces. Una lista de tareas interactiva realizada con HTML, CSS y JavaScript puro.
+        </p>
+      </div>
+    </td>
+  </tr>
 <tr>
-<td width="50%">
-<h3 align="center">Proyecto de Monitorización Eléctrica</h3>
-<div align="center">
-<a href="https://github.com/jaimemoralmillan/ProyectoA" target="_blank"><img src="https://github.com/jaimemoralmillan/ProyectoA/blob/main/monitorizacion_electrica/src/main/java/com/proyecto_a/ui/portada.png" width="400" alt="Proyecto Monitorización Eléctrica"></a>
-<p>
-<a href="https://github.com/jaimemoralmillan/ProyectoA" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
+  <td width="50%">
+    <h3 align="center">Replica Web</h3>
+    <div align="center">
+      <a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank"><img src="/img/ReplicaWeb (2).png" width="400" alt="Replica Web"></a>
+      <p>
+        <a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        </p>
+      <p> Proyecto realizado para la asignatura de Desarrollo de Interfaces. Consiste en la réplica de una página web con HTML y CSS.</p>
+    </div>                                                                                 
+  </td> 
+  <td width="50%">
+    <h3 align="center">Calculadora</h3>
+    <div align="center">
+      <a href="https://github.com/angelaherval96/Clase4ProyectoCalculadora" target="_blank"><img src="/img/Calculadora.png" width="400" alt="Replica Web"></a>
+      <p>
+        <a href="https://github.com/angelaherval96/Clase4ProyectoCalculadora" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </p>
+      <p> Proyecto realizado para la asignatura de Desarrollo de Interfaces. Consiste en una calculadora básica hecha con HTML, CSS y JS.</p>
+    </div>                                                                             
+  </td>      
+</tr>
+</table>
 
-</p>
-<p> Proyecto realizado para la asignatura de Programación (Java) en 1º de DAM.
-Se trata de un proyecto de monitorización eléctrica que obtiene los datos de un json y hace calculos por dispositivo y periodo de tiempo.
-</p>
-</div>
-                                                                                      
-</td>
 
-<td width="50%">
-               <br>
-<h3 align="center">Proyecto Gestor de Cursos</h3>
-<div align="center">                                       
-<a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank"><img src="/img/GestorCursos.png" width="400" alt="Proyecto Gestor Cursos"></a>
-<br>
-<p>
-<a href="https://github.com/jaimemoralmillan/proyectoGestorCursos" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
 
-</p>
-</p>Proyecto realizado en la asignatura de Acceso a Datos de 2ºDAM. Consiste en un gestor de cursos que permite a los docentes la creación, edición y eliminación de cursos, así como la matriculación de estudiantes en cada uno de ellos. Además, permite a los estudiantes visualizar dos listados, uno con los cursos en los que se ha matriculado y otro con todos los cursos disponibles y sus detalles.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Replica Web</h3>
-<div align="center">
-<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank"><img src="/img/ReplicaWeb (2).png" width="400" alt="Replica Web"></a>
-<p>
-<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ReplicaWeb" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p> Proyecto realizado para la asignatura de Desarrollo de Interfaces. Consiste en la réplica de una página web con HTML y CSS.</p>
-</div>
-                                                                                      
-</td>       
 
-<td width="50%">
-<h3 align="center">Proyecto Lista de Tareas</h3>
-<div align="center">
-<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank"><img src="/img/ListaTareas.png" width="400" alt="Lista de Tareas"></a>
-<p>
-<a href="https://github.com/angelaherval96/RepositorioDesarrolloInterfaces/tree/main/ProyectoListaTareas" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Proyecto realizado para la asignatura de Desarrollo de Interfaces. Se trata de una lista de tareas realizada con HTML, CSS y JS.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Calculadora</h3>
-<div align="center">
-<a href="https://github.com/angelaherval96/Clase4ProyectoCalculadora" target="_blank"><img src="/img/Calculadora.png" width="400" alt="Replica Web"></a>
-<p>
-<a href="https://github.com/angelaherval96/Clase4ProyectoCalculadora" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p> Proyecto realizado para la asignatura de Desarrollo de Interfaces. Consiste en una calculadora básica hecha con HTML, CSS y JS.</p>
-</div>
-                                                                                      
-</td>       
 
-<td width="50%">
-<h3 align="center">Pagina Eventos</h3>
-<div align="center">
-<a href="https://github.com/angelaherval96/pagina-eventos" target="_blank"><img src="/img/PaginaEventos.png" width="400" alt="Lista de Tareas"></a>
-<p>
-<a href="https://github.com/angelaherval96/pagina-eventos" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Proyecto realizado en la asignatura de Desarrollo de Interfaces de 2º del Ciclo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Consiste en la creación de una página web de información y venta de entradas para eventos.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
+
+
+
+
+
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
 
